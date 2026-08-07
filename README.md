@@ -61,18 +61,6 @@ Full-Stack · UI/UX · Game Dev
 
 <br>
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=hansmadume&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansmadume&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" width="30%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hansmadume&theme=synthwave&hide_border=true&background=0D1117" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hansmadume&theme=synthwave&hide_border=true&bg_color=0D1117" width="90%" />
-
-</div>
 
 <br>
 
