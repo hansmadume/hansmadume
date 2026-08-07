@@ -2,7 +2,7 @@
 
 💻 Front-End Developer
 🌱 Currently using Laravel, PHP, Vue.js
-🎮 Game Developer (Unity 2D)
+Software Developer and Game Developer (Unity 2D)
 📍 Philippines
 
 ## 🚀 Technologies
