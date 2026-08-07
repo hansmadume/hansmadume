@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=70&lines=Hans+Christian+Madume;Software+Developer;Unity+Game+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=70&lines=Hans+Christian+Madume;Web+Developer;Unity+Game+Developer" alt="Typing SVG" />
 
 <br>
 
@@ -13,7 +13,7 @@
 
 ```text
 > whoami
-Software developer based in the Philippines.
+Web developer based in the Philippines.
 Building web applications and 2D games.
 Writing clean, maintainable code — one commit at a time.
 ```
