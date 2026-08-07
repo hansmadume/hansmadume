@@ -15,7 +15,7 @@ I'm a passionate software developer from the Philippines with experience buildin
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,php,laravel,vue,js,html,css,tailwind,mysql,git,github,vscode,figma" />
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=383931937007287053" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 </p>
 
 ---
