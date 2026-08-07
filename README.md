@@ -15,7 +15,7 @@ I'm a passionate software developer from the Philippines with experience buildin
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/your-gif.gif" width="500](https://assets.pinterest.com/ext/embed.html?id=383931937007287053" height="295" width="345">
+  <img src="[https://media.giphy.com/media/your-gif.gif" width="500](https://assets.pinterest.com/ext/embed.html?id=383931937007287053" height="295" width="345")>
 </p>
 
 ---
